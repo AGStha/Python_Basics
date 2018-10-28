@@ -2,6 +2,7 @@
 This is the basic python that i am learning.It is intended
 to use the features of github as well.
 Source that I learned from.
+https://stackify.com/learn-python-tutorials/
 https://pythonspot.com/
 https://www.tutorialspoint.com/python/
 https://www.programiz.com/python-programming/
