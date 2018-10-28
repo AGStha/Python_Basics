@@ -1,7 +1,7 @@
 **
 This is the basic python that i am learning.It is intended
 to use the features of github as well.
-Source that I learned from.
+##Source that I learned from.
 https://stackify.com/learn-python-tutorials/
 https://pythonspot.com/
 https://www.tutorialspoint.com/python/
@@ -20,7 +20,8 @@ http://interactivepython.org/runestone/default/user/login?_next=/runestone/defau
 https://intellipaat.com/tutorial/tutorial-tutorial-tutorial-python-tutorial/python-introduction/
 https://www.sololearn.com/Play/Python/
 https://www.w3schools.com/python/default.asp
-#advanced
+
+##advanced
 https://docs.python-guide.org/
 https://www.studytonight.com/network-programming-in-python/
 https://stephensugden.com/crash_into_python/   
