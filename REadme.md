@@ -21,13 +21,14 @@ https://intellipaat.com/tutorial/tutorial-tutorial-tutorial-python-tutorial/pyth
 https://www.sololearn.com/Play/Python/
 https://www.w3schools.com/python/default.asp
 
-##advanced
-https://docs.python-guide.org/
-https://www.studytonight.com/network-programming-in-python/
-https://stephensugden.com/crash_into_python/   
-https://realpython.com/start-here/
-https://www.fullstackpython.com/
-http://www.alan-g.me.uk/l2p/index.htm
+    
+    # advanced
+    https://docs.python-guide.org/
+    https://www.studytonight.com/network-programming-in-python/
+    https://stephensugden.com/crash_into_python/   
+    https://realpython.com/start-here/
+    https://www.fullstackpython.com/
+    http://www.alan-g.me.uk/l2p/index.htm
 
    # 
    # Top 30 python tutors
