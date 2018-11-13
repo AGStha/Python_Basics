@@ -25,5 +25,20 @@ file=open('demofile.txt','r+')
 
 content3=file.read()
 
+
 print('this is content3\n'+content3)
+
+
+content4=file.read()
+print(content4)
 file.close()
+# To append a or a+ is used
+
+
+#Without close statement
+
+with open("demofile.txt","a+") as file:
+    file.seek(0)
+    content6=file.read()
+    file.write('\n line hello 24')
+    print(content6)
