@@ -17,4 +17,5 @@ class TestCap(unittest.TestCase):
         result=cap.cap_text(text)
         self.assertEqual(result,'My Python')
 if __name__=='__main__':
-    unittest.main()
+    unittest.main()     #it gives the output. like. Ran 1 test in 0.000s Ok
+
