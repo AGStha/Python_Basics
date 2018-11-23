@@ -15,7 +15,8 @@ update_sql = "update contacts set email='{}' where phone={}".format(email,phone)
 
 
 update_cursor = db.cursor()
-update_cursor.execute(update_sql)
+#update_cursor.execute(update_sql)
+update_cursor.executescript(update_sql)#eecustescript is vunerable to sqlinjection attack.
 print("{} rows updated".format(update_cursor.rowcount))
 
 print()
