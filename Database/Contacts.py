@@ -31,4 +31,6 @@ for name,phone,email in cursor:
     print(email)
     print('-'*10)
 cursor.close()
+#without commit command it wont be recorded. or saved.
+db.commit()
 db.close()
