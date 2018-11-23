@@ -12,11 +12,12 @@ db = sqlite3.connect("contacts.sqlite")
 email='sqlinject@gmail.com'
 phone=input("enter the phone")
 update_sql = "update contacts set email='{}' where phone={}".format(email,phone)
-
+update_sql3="update contacts set email=? where phone =?"
 
 update_cursor = db.cursor()
 #update_cursor.execute(update_sql)
-update_cursor.executescript(update_sql)#eecustescript is vunerable to sqlinjection attack.
+update_cursor.executescript(update_sql3)
+#eecustescript is vunerable to sqlinjection attack.
 print("{} rows updated".format(update_cursor.rowcount))
 
 print()
